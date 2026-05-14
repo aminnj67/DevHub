@@ -44,21 +44,21 @@ Modern backend development is fragmented:
 
 ## 🖼️ Platform Preview
 
-### 📊 Dashboard Overview
+### 📊 Chat Overview
 <p align="center">
   <img src="https://via.placeholder.com/1000x500?text=DevHub+Dashboard+Preview" />
 </p>
 
 ---
 
-### 🧪 API Testing Interface
+### 🧪 API Keys Shearing System
 <p align="center">
   <img src="https://via.placeholder.com/1000x500?text=API+Testing+Environment" />
 </p>
 
 ---
 
-### 📦 Project Management System
+### 📦 API Management System
 <p align="center">
   <img src="https://via.placeholder.com/1000x500?text=Project+Organization+View" />
 </p>
