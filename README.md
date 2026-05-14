@@ -60,7 +60,7 @@ Modern backend development is fragmented:
 
 ### 📦 API Management System
 <p align="center">
-  <img src="https://via.placeholder.com/1000x500?text=Project+Organization+View" />
+  <img src="https://github.com/user-attachments/assets/7ed804a4-bf06-48e6-a666-d8dc2cd375ad" />
 </p>
 
 ---
