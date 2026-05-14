@@ -46,7 +46,7 @@ Modern backend development is fragmented:
 
 ### 📊 Chat Overview
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/4603d5aa-69e2-42f9-9742-3c66f234e68f" />
+  <img src="https://github.com/user-attachments/assets/d126eccd-c24d-41e3-9bf1-fa0e7c21f850" />
 </p>
 
 ---
