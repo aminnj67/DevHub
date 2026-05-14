@@ -53,7 +53,7 @@ Modern backend development is fragmented:
 
 ### 🧪 API Keys Shearing System
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/2aa8f22d-528e-439d-a160-a781c6e5e010" />
+  <img src="https://github.com/user-attachments/assets/4603d5aa-69e2-42f9-9742-3c66f234e68f" />
 </p>
 
 ---
