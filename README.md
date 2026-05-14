@@ -53,7 +53,7 @@ Modern backend development is fragmented:
 
 ### 🧪 API Keys Shearing System
 <p align="center">
-  <img src="https://via.placeholder.com/1000x500?text=API+Testing+Environment" />
+  <img src="https://github.com/user-attachments/assets/2aa8f22d-528e-439d-a160-a781c6e5e010" />
 </p>
 
 ---
